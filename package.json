@@ -1,0 +1,29 @@
+{
+  "name": "Arduino",
+  "version": "0.0.0",
+  "description": "Basic Arduino scripts created for experiments with the Sparkfun Inventors Kit",
+  "main": "00-fun.js",
+  "dependencies": {
+    "johnny-five": "~0.8.7"
+  },
+  "devDependencies": {
+    "johnny-five": "~0.8.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kindasimple/Arduino.git"
+  },
+  "keywords": [
+    "arduino",
+    "sparkfun"
+  ],
+  "author": "Evan White",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kindasimple/Arduino/issues"
+  },
+  "homepage": "https://github.com/kindasimple/Arduino"
+}
